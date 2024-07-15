@@ -46,6 +46,8 @@ This project simulates a vending machine system that accepts paper money, allows
 - Or you can run by click the button on IDE.
 4. Follow on-screen instruction to input money, order products and process payment.
 
+#### Recommend to use IntelliJ IDEA for compile and run the application. (If use IntelliJ IDEA you just need to clone the source code and then load the pom file and run the application )
+
 ### Detailed Instructions
 1. Input Money:
  - Run the application and enter the denominations you want to insert (10000, 20000, 50000, 100000, 200000 VND).
